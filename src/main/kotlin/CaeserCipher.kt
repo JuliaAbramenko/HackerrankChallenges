@@ -1,6 +1,4 @@
-/*
- * The function is expected to return a STRING.
- * The function accepts following parameters:
+/**
  *  1. initial STRING s
  *  2. number of digits to rotate the initial string INTEGER k
  */
